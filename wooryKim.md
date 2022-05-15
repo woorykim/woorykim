@@ -44,10 +44,10 @@
  <br><br><br><br>
  
   <h1>About Me 👩‍⚕️</h2>
-   <a href="https://velog.io/@wor0927" target="_blank">
+   <a href="https://velog.io/@wor0927" target="blank">
     <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
    </a>
-    <a href="https://velog.io/@wor0927" target="_blank">
+    <a href="https://velog.io/@wor0927" target="blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
    </a>
  
