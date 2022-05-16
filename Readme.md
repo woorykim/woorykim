@@ -5,7 +5,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoorykim%2F&count_bg=%238FE1F1&title_bg=%23FD8989&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/woorykim)   
 
-<h1 style="border-bottom:none">Woory's 😎</h1>
+<p style="font-size:250%">Woory's 😎</p>
   
   
 <h3>Hi There! I'm a Front-end developer. <br/>
@@ -15,14 +15,6 @@ I'm a persistent person, who study hard day and night for be a good developer</h
 <br><br><br><br><br><br>
 
 
-
-
-<br><br><br>
- 
-
-![KakaoTalk_20220513_160301310](https://user-images.githubusercontent.com/89957988/168231556-1426564d-0560-4311-9dc4-6ab4fe33c911.jpg)
-
-  <br><br><br>
  
  <h1>✨ Front-end Stack ✨</h1>
 
@@ -51,8 +43,7 @@ I'm a persistent person, who study hard day and night for be a good developer</h
  <h1>My Stats 🧐</h2>
 
  ![woory's GitHub stats](https://github-readme-stats.vercel.app/api?username=woorykim&show_icons=true&theme=flag-india)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woorykim)](https://github.com/woorykim/github-readme-stats)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woorykim&layout=compact&theme=flag-india)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=woorykim&&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  <br><br><br><br>
  
