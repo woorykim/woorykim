@@ -3,7 +3,7 @@
 
 <br><br> 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Hi%20There!😎&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=150&section=header&text=Hi%20There!😎&fontSize=90)
   
 <h3>I'm WooryKim, <img src="https://user-images.githubusercontent.com/89957988/168519391-5ee8f938-2c4d-483a-bc32-6519ab94c1f6.png" height="30px"/> the front-end developer. <br/>
 My main skills are HTML, CSS3, JavaScript. <br/>
@@ -14,18 +14,13 @@ who study hard day and night for be a good developer</h3>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F&woorykim%2F&count_bg=%238FE1F1&title_bg=%23FD8989&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://github.com/woorykim)    
   
- 
   
 <br>  <hr>  
- 
-  
-
-  
   
 <br>  
  
   
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Front-end%20Stack✨&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=100&section=header&text=Front-end%20Stack✨&fontSize=50)
 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-F7DF1E?style=flat&logo=CSS3&logoColor=white"/>
@@ -51,14 +46,14 @@ who study hard day and night for be a good developer</h3>
   
 
  
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=My%20Stats💻&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=100&section=header&text=My%20Stats💻&fontSize=50)
 
  ![woory's GitHub stats](https://github-readme-stats.vercel.app/api?username=woorykim&show_icons=true&theme=flag-india)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woorykim)](https://github.com/woorykim/github-readme-stats)
  
  <br><br><br>
  
- ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=80&section=header&text=About%20Me👩&fontSize=50) 
+ ![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=80&section=header&text=About%20Me👩&fontSize=50) 
 
    <a href="https://www.notion.so/RY-NORY-f25a63b00dc94a89a79599dc8ecb7287" target="blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
@@ -74,8 +69,8 @@ who study hard day and night for be a good developer</h3>
   
   
    <br><br><br><br>
-   <img src="https://user-images.githubusercontent.com/89957988/168519237-3bae87c7-d172-4212-ace3-12df3a38d2bd.png" height="50px"/>
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F&woorykim%2F&title_bg=%23FD8989&title=bye)](https://github.com/woorykim)   
+   <img src="https://user-images.githubusercontent.com/89957988/168700736-dd8d98f4-3dbc-4709-bcba-e003450e127c.gif" height="80px"/>
+   <div><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F&woorykim%2F&title_bg=%23FD8989&title=bye"/></div>
 </div>
 
